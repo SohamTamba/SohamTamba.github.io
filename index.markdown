@@ -109,7 +109,8 @@ I have completed the following courses provided by [Coursera](//www.coursera.org
 * Codetron 2018: **Winner** 
 
 Onsite competition organized by **Goa Engineering College** during their annual tech-fest,
-Spectrum.
+Spectrum.<br>
+<a href="{{ site.baseurl }}/assets/certificates/Codetron.jpg">View Certificate</a>
 
 * Programmatics 2018: **Winner**
 
