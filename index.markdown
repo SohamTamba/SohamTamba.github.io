@@ -52,6 +52,40 @@ During the summer of 2016, I spent 3 months working in Dr. B. Sharat Chandra Var
 <hr>
 <br>
 
+
+# Online Courses
+
+* [Convolutional Neural Networks for Visual Recognition](//cs231n.github.io/) (Winter 2016 version)
+
+I have completed the following courses provided by [MIT OCW](//ocw.mit.edu), which includes video lectures and problem sets.
+
+* [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](//ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
+
+* [Advanced Algorithms](//people.csail.mit.edu/moitra/854.html)
+
+* [Design and Analysis of Algorithms](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+* [Probabilistic Systems Analysis and Applied Probability](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+* [Introduction to Algorithms](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
+* [Mathematics for Computer Science](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+
+* [Introduction to Computer Science and Programming](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+
+I have completed the following courses provided by [Coursera](//www.coursera.org) and received certification.
+
+* [Machine Learning](//www.coursera.org/learn/machine-learning), Stanford University.
+
+<a href="{{ site.baseurl }}/assets/certificates/ML_coursera.pdf">View Certificate</a>
+
+* [Game Theory I](//www.coursera.org/learn/game-theory-1), Stanford University & University of British Columbia
+
+<a href="{{ site.baseurl }}/assets/certificates/GT_coursera.pdf">View Certificate</a>
+
+<hr>
+<br>
+
 # Open-source software developer mentor
 
 * **Google Summer of Code 2019** mentor at **Julia Programming Language**
@@ -85,35 +119,6 @@ My attendance was funded by **Julia Project** and **NUMFocus**.<br>
 * **Latest Advances in Machine Learning and Data Science 2017** at *NIT Goa*
 
 Attended as spectator.
-
-<hr>
-<br>
-
-# Online Courses
-
-I have completed the following courses provided by [MIT OCW](//ocw.mit.edu), which includes video lectures and problem sets.
-
-* [Advanced Algorithms](//people.csail.mit.edu/moitra/854.html)
-
-* [Design and Analysis of Algorithms](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-
-* [Probabilistic Systems Analysis and Applied Probability](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-
-* [Introduction to Algorithms](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-
-* [Mathematics for Computer Science](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-
-* [Introduction to Computer Science and Programming](//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-
-I have completed the following courses provided by [Coursera](//www.coursera.org) and received certification.
-
-* [Machine Learning](//www.coursera.org/learn/machine-learning), Stanford University.
-
-<a href="{{ site.baseurl }}/assets/certificates/ML_coursera.pdf">View Certificate</a>
-
-* [Game Theory I](//www.coursera.org/learn/game-theory-1), Stanford University & University of British Columbia
-
-<a href="{{ site.baseurl }}/assets/certificates/GT_coursera.pdf">View Certificate</a>
 
 <hr>
 <br>
