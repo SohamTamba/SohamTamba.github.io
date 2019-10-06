@@ -27,6 +27,7 @@ I graduated from **National Institute of Technology Goa**'s **Computer Science a
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NIT.pdf">View Undergraduate Transcript</a>
 
+I am seeking an internship for the summer of 2020, preferably in software engineering or data science.
 
 <a href="{{ site.baseurl }}/assets/CV.pdf">View CV</a> 
 
