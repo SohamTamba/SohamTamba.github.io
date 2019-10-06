@@ -18,12 +18,19 @@ Recieved degree from Shri M. Venkaiah Naidu, Hon'ble Vice President of India</fi
 Hi! My name is **Soham Tamba**.<br>
 This is my personal website.
 
-I recently enrolled in **New York University**'s **Computer Science**, MS program.
+I recently enrolled in **New York University**'s **Computer Science**, MS program.<br>
+
+<a href="{{ site.baseurl }}/assets/certificates/Transcript_NYU.pdf">View Transcript</a> 
+
+
 I graduated from **National Institute of Technology Goa**'s **Computer Science and Engineering**, B.Tech program.<br>
 
-<a href="{{ site.baseurl }}/assets/Resume.pdf">View CV</a> 
+<a href="{{ site.baseurl }}/assets/certificates/Transcript_NIT.pdf">View Undergraduate Transcript</a>
 
-(Updated on 13th September, 2019)
+
+<a href="{{ site.baseurl }}/assets/CV.pdf">View CV</a> 
+
+(Updated on 6th October, 2019)
 
 <hr>
 <br>
@@ -45,7 +52,7 @@ My final year thesis focused mainly on topics of **Public Key Proxy Re-encryptio
 During the summer of 2017, I spent 2 months as a research intern at Indian Institute of Technology Bombay under Dr. Sundar Vishwanathan. I worked on the topic of designing efficient **Approximation Algorithms for variants of the Clustering problem**.<br>
 <a href="{{ site.baseurl }}/assets/certificates/IITB_Intern.pdf">View Certificate</a>
 
-* **Summer Research Project** at **NIT Goa**
+* **Research Assistant** to Prof. B. Sharat Chandra Varma at **NIT Goa**
 
 During the summer of 2016, I spent 3 months working in Dr. B. Sharat Chandra Varma's research group to produce an efficient **FPGA implementation of Deep-Q Learning**. The experience involved studying research papers on FPGA implementations of Neural Networks and implementing the algorithm in VHDL.
 
