@@ -8,8 +8,6 @@ title: Soham Tamba
 
 <figure>
 <img src="{{ site.baseurl }}/assets/images/me.jpeg" width="650" height="450" >
-<figcaption> <b>NIT Goa Convocation 2018</b> <br>
-Recieved degree from Shri M. Venkaiah Naidu, Hon'ble Vice President of India</figcaption>
 </figure>
 
  </div>
