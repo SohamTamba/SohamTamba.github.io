@@ -29,7 +29,7 @@ I am seeking an internship for the summer of 2020, preferably in software engine
 
 <a href="{{ site.baseurl }}/assets/CV.pdf">View CV</a> 
 
-(Updated on 29th December, 2019)
+(Updated on 12th February, 2020)
 
 <hr>
 <br>
