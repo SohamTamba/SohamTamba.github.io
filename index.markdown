@@ -31,6 +31,8 @@ I am seeking an internship for the summer of 2020, preferably in software engine
 
 (Updated on 12th February, 2020)
 
+I recently started documenting my research activity [here](https://sohamtamba.github.io/research/).
+
 <hr>
 <br>
 
