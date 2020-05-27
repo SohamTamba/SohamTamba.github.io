@@ -64,6 +64,63 @@ During the summer of 2016, I spent 3 months working in Dr. B. Sharat Chandra Var
 <br>
 
 
+
+# Open-source software developer mentor
+
+* **Google Summer of Code 2019** mentor at **Julia Programming Language**
+
+<a href="{{ site.baseurl }}/assets/certificates/GSoC_mentor.pdf">View Certificate</a>
+
+* **Julia Seasons of Contributions 2019** mentor
+
+<hr>
+<br>
+
+# Teaching Assistantships at NIT Goa
+
+* **CS351: Design and Analysis of Algorithms** *Spring 2018*  
+
+* **CS303: Theory of Computation** *Fall 2017*
+
+* **CS203: Discrete Mathematics** *Fall 2017*
+
+<hr>
+<br>
+
+
+
+# Competitive Programming
+
+* Codetron 2018: **Winner** 
+
+Onsite competition organized by **Goa Engineering College** during their annual tech-fest,
+Spectrum.<br>
+<a href="{{ site.baseurl }}/assets/certificates/Codetron.jpg">View Certificate</a>
+
+* Programmatics 2018: **Winner**
+
+Onsite competition organized by **NIT Goa** during their annual tech-fest, Saavyas.<br>
+<a href="{{ site.baseurl }}/assets/certificates/Programmatics.pdf">View Certificate</a>
+
+* **ACM ICPC 2017** Asia Amritapuri Doublesite Regional: **Rank 88**
+
+ACM ICPC is one of the most prestigious college level programing competitions. <br>
+<a href="{{ site.baseurl }}/assets/certificates/ACM_ICPC.pdf">View Certificate</a>
+
+* Inter-NIT Code-a-thon 2017: **Rank 13**
+
+Online competition organized by The Indian Society for Technical
+Education, **NIT Bhopal** chapter during their annual student's conclave, Chimera.
+
+* Code Heat 2016: **Winner**
+
+Online competition organized by **Manipal Institute of Technology**'s official computer science club, IECSE.<br>
+<a href="{{ site.baseurl }}/assets/certificates/CodeHeat.pdf">View Certificate</a>
+
+<hr> 
+<br>
+
+
 # Online Courses
 
 * [Convolutional Neural Networks for Visual Recognition](//cs231n.github.io/) (Winter 2016 version)
@@ -97,29 +154,7 @@ I have completed the following courses provided by [Coursera](//www.coursera.org
 <hr>
 <br>
 
-# Open-source software developer mentor
-
-* **Google Summer of Code 2019** mentor at **Julia Programming Language**
-
-<a href="{{ site.baseurl }}/assets/certificates/GSoC_mentor.pdf">View Certificate</a>
-
-* **Julia Seasons of Contributions 2019** mentor
-
-<hr>
-<br>
-
-# Teaching Assistantships at NIT Goa
-
-* **CS351: Design and Analysis of Algorithms** *Spring 2018*  
-
-* **CS303: Theory of Computation** *Fall 2017*
-
-* **CS203: Discrete Mathematics** *Fall 2017*
-
-<hr>
-<br>
-
-# Conference
+# Conferences Attended
 
 * **Julia Conference 2018** at *University College London*
 
@@ -132,38 +167,6 @@ My attendance was funded by **Julia Project** and **NUMFocus**.<br>
 Attended as spectator.
 
 <hr>
-<br>
-
-# Competitive Programming
-
-* Codetron 2018: **Winner** 
-
-Onsite competition organized by **Goa Engineering College** during their annual tech-fest,
-Spectrum.<br>
-<a href="{{ site.baseurl }}/assets/certificates/Codetron.jpg">View Certificate</a>
-
-* Programmatics 2018: **Winner**
-
-Onsite competition organized by **NIT Goa** during their annual tech-fest, Saavyas.<br>
-<a href="{{ site.baseurl }}/assets/certificates/Programmatics.pdf">View Certificate</a>
-
-* **ACM ICPC 2017** Asia Amritapuri Doublesite Regional: **Rank 88**
-
-ACM ICPC is one of the most prestigious college level programing competitions.<br> 
-I participated in NIT Goa's team.<br>
-<a href="{{ site.baseurl }}/assets/certificates/ACM_ICPC.pdf">View Certificate</a>
-
-* Inter-NIT Code-a-thon 2017: **Rank 13**
-
-Online competition organized by The Indian Society for Technical
-Education, **NIT Bhopal** chapter during their annual student's conclave, Chimera.
-
-* Code Heat 2016: **Winner**
-
-Online competition organized by **Manipal Institute of Technology**'s official computer science club, IECSE.<br>
-<a href="{{ site.baseurl }}/assets/certificates/CodeHeat.pdf">View Certificate</a>
-
-<hr> 
 <br>
 
 # Toastmasters
