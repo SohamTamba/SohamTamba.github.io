@@ -16,20 +16,19 @@ title: Soham Tamba
 Hi! My name is **Soham Tamba**.<br>
 This is my personal website.
 
-I recently enrolled in **New York University**'s **Computer Science**, MS program.<br>
+I enrolled in **New York University**'s **Computer Science**, MS program in the Fall of 2019.<br>
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NYU.pdf">View Transcript</a> 
 
 
-I graduated from **National Institute of Technology Goa**'s **Computer Science and Engineering**, B.Tech program.<br>
+I graduated from **National Institute of Technology Goa**'s **Computer Science and Engineering**, B.Tech program in the Spring of 2018.<br>
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NIT.pdf">View Undergraduate Transcript</a>
 
-I am seeking an internship for the summer of 2020, preferably in software engineering or data science.
 
 <a href="{{ site.baseurl }}/assets/CV.pdf">View CV</a> 
 
-(Updated on 12th February, 2020)
+(Updated on 27th May, 2020)
 
 I recently started documenting my research activity [here](https://sohamtamba.github.io/research/).
 
@@ -38,9 +37,13 @@ I recently started documenting my research activity [here](https://sohamtamba.gi
 
 # Research/Development Activities
 
+* **Software Development Engineer Intern** at **Audible**
+
+Ongoing.
+
  * **Google Summer of Code** under **Julia Programming Language**
 
-During the summer of 2018, I took part in Google Summer of Code as a student developer and spent 3 months working for Julia Language. My project involved developing optimized **parallel implementations of graph algorithms** in pure Julia and **optimising pre-existing implementations** in the LightGraphs library. The entire experience is documented in my blog.<br>
+During the summer of 2018, I took part in Google Summer of Code as a student developer and spent 3 months working for Julia Language. My project involved developing optimized **graph analysis software** in pure Julia and **optimising pre-existing software** in the LightGraphs library. The entire experience is documented in my blog.<br>
 [View Blog](//sohamtamba.github.io/GSoC)
 
  * **Undergraduate Thesis** at **NIT Goa**
