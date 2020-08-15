@@ -28,18 +28,18 @@ I graduated from **National Institute of Technology Goa**'s **Computer Science a
 
 <a href="{{ site.baseurl }}/assets/CV.pdf">View CV</a> 
 
-(Updated on 27th May, 2020)
+(Updated on 15th Aug, 2020)
 
 I recently started documenting my research activity [here](https://sohamtamba.github.io/research/).
 
 <hr>
 <br>
 
-# Research/Development Activities
+# Professional Activities
 
 * **Software Development Engineer Intern** at **Audible**
 
-Ongoing.
+Created a web application using Spring and React. Significantly automated the monthly performance report of a department.
 
  * **Google Summer of Code** under **Julia Programming Language**
 
