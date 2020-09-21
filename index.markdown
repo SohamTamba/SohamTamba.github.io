@@ -30,7 +30,7 @@ I graduated from **National Institute of Technology Goa**'s **Computer Science a
 
 (Updated on 15th Aug, 2020)
 
-I recently started documenting my research activity [here](https://sohamtamba.github.io/research/).
+I recently started documenting my projects [here](https://sohamtamba.github.io/projects/).
 
 <hr>
 <br>
