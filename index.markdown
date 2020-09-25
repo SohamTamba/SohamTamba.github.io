@@ -16,7 +16,7 @@ title: Soham Tamba
 Hi! My name is **Soham Tamba**.<br>
 This is my personal website.
 
-I enrolled in **New York University**'s **Computer Science**, MS program in the Fall of 2019.<br>
+I am currently enrolled in **New York University**'s **Computer Science**, MS program in the Fall of 2019.<br>
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NYU.pdf">View Transcript</a> 
 
@@ -25,12 +25,18 @@ I graduated from **National Institute of Technology Goa**'s **Computer Science a
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NIT.pdf">View Undergraduate Transcript</a>
 
+I am expected to graduate in May 2021, and will be seeking full-time employment then.
 
-<a href="{{ site.baseurl }}/assets/CV.pdf">View CV</a> 
+For a concise one-page description of my skills and experience, please refer to my <a href="{{ site.baseurl }}/assets/Resume.pdf">Resume</a>. 
 
-(Updated on 15th Aug, 2020)
+(Updated on 20th Sept, 2020)
 
-I recently started documenting my projects [here](https://sohamtamba.github.io/projects/).
+For more details, please refer to my [Linkedin profile](https://www.linkedin.com/in/soham-tamba/) or this website.
+
+
+
+
+I recently began documenting my projects [here](https://sohamtamba.github.io/projects/).
 
 <hr>
 <br>
@@ -49,7 +55,6 @@ During the summer of 2018, I took part in Google Summer of Code as a student dev
  * **Undergraduate Thesis** at **NIT Goa**
 
 My final year thesis focused mainly on topics of **Public Key Proxy Re-encryption (PRE) Schemes**. We worked on the topic of achieving efficient Hierarchical Access Control using transitive anti-symmetric PRE, and producing an efficient Threshold Progressive PRE scheme.<br>
-<a href="{{ site.baseurl }}/assets/Thesis.pdf">View Thesis</a>
 
 * **Summer Research Internship** at **IIT Bombay**
 
