@@ -16,7 +16,7 @@ title: Soham Tamba
 Hi! My name is **Soham Tamba**.<br>
 This is my personal website.
 
-I am currently enrolled in **New York University**'s **Computer Science**, MS program in the Fall of 2019, and have been concentrating on Deep Learning.<br>
+I am currently enrolled in **New York University**'s **Computer Science**, MS program, and have been concentrating on Deep Learning.<br>
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NYU.pdf">View Transcript</a> 
 
