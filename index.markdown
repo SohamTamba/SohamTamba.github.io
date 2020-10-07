@@ -25,7 +25,7 @@ I graduated from **National Institute of Technology Goa**'s **Computer Science a
 
 <a href="{{ site.baseurl }}/assets/certificates/Transcript_NIT.pdf">View Undergraduate Transcript</a>
 
-I am expected to graduate in May 2021, and will be seeking full-time research or software oppertunities then.
+I am expected to graduate in May 2021, and will be seeking full-time research or engineering oppertunities then.
 
 For a concise one-page description of my skills and experience, please refer to my <a href="{{ site.baseurl }}/assets/Resume.pdf">Resume</a>. 
 
