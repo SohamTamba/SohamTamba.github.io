@@ -33,4 +33,6 @@ For a concise one-page description of my skills and experience, please refer to 
 
 For more details, please refer to my [Linkedin profile](https://www.linkedin.com/in/soham-tamba/).
 
-I recently began documenting my projects [here](https://sohamtamba.github.io/projects/).
+I recently began documenting my projects. 
+
+[View Projects](https://sohamtamba.github.io/projects/).
