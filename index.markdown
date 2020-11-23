@@ -29,10 +29,10 @@ I am expected to graduate in May 2021, and will be seeking full-time research or
 
 For a concise one-page description of my skills and experience, please refer to my <a href="{{ site.baseurl }}/assets/Resume.pdf">Resume</a>. 
 
-(Updated on 20th Sept, 2020)
+(Updated on 23rd November, 2020)
 
 For more details, please refer to my [Linkedin profile](https://www.linkedin.com/in/soham-tamba/).
 
-I recently began documenting my projects. 
+I documented my projects. 
 
 [View Projects](https://sohamtamba.github.io/projects/).
